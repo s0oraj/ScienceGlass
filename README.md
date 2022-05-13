@@ -71,7 +71,7 @@
 | :-------- | :------- | :-------------------------------- |
 | `$site`      | `(int string)` | Site ID or domain |
  
- Our Website (to be replaced by $site) : https://cosmos.home.blog/
+ Our Website (to be replaced by $site) : https://cosmos.home.blog
 
 
 
