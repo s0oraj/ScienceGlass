@@ -50,6 +50,27 @@
  -  Users can set the number of recent post they want to see. If a user sets his preference to three posts then the user is only shown three recent posts from the ScienceGlass blog
  -  Swapping and Deleting of Data: Users can tap on a post and swipe right to remove it from screen. And users can also tap on a post and change its location by moving it up or down the list of posts fom the website. Refresh button will restore all data back to its original configuration.
  -  Change layout: Users can customize what layout they want to see their posts in. Two layouts are provided: LinearLayout and GridLayout.
+ 
+ 
+## API Reference
+
+#### Get a list of matching posts.
+
+```http
+  GET /sites/$site/posts/
+```
+
+| Method | URL    | Requires authentication?     |
+| :-------- | :------- | :------------------------- |
+| `GET` | `https://public-api.wordpress.com/rest/v1.1/sites/$site/posts/` | No |
+
+#### Method Parameters
+
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `$site`      | `(int string)` | Site ID or domain |
+
 
 
 
