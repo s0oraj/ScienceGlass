@@ -60,13 +60,4 @@
  -  Change layout: Users can customize what layout they want to see their posts in. Two layouts are provided: LinearLayout and GridLayout.
 
 
- <a href="https://user-images.githubusercontent.com/42529024/168299190-8b371bb0-7d1f-4088-92b4-f9f6d0851241.png" target="_blank">
- <img src="https://user-images.githubusercontent.com/42529024/168299190-8b371bb0-7d1f-4088-92b4-f9f6d0851241.png" width="31%" />
- </a>
- <a href="https://user-images.githubusercontent.com/42529024/168299449-7b03c6b3-dbbe-48e6-938c-de9a04d9cfac.png" target="_blank">
- <img src="https://user-images.githubusercontent.com/42529024/168299449-7b03c6b3-dbbe-48e6-938c-de9a04d9cfac.png" width="31%" />
- </a>
-
-
-
 
