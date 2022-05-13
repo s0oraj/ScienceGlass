@@ -37,7 +37,7 @@
  - It fetches JSON Data from WordPress [Public API](https://developer.wordpress.com/docs/api/) by using [Volley](https://github.com/google/volley) library.
  - After this, it then parses the received data and shows it in main user-interface of the app.
  - For displaying featured image of a post, [Picasso](https://github.com/square/picasso) library is used which takes image from url and loads it to the screen.
- - And finally, Androids WebView library is used to convert html content into relevant data to be loaded on the screen.
+ - And finally, Androids [WebView](https://developer.android.com/reference/android/webkit/WebView) library is used to convert html content into relevant data to be loaded on the screen.
  
  ## Libraries used
 
