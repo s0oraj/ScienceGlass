@@ -11,11 +11,16 @@
  * The JSON received is then extracted into relevant information and shown in the main user-interface of the app.
 
 
-## Screenshots
-![App Screenshot](blob:https://web.whatsapp.com/6acc5543-a3ab-457c-8f98-abfd9d135910)
+**IOS Runtime**
 
-<p float="left">
-  <img src="/https://img.shields.io/github/stars/surmon-china/surmon.me.native.svg?style=for-the-badge"  />
-  <img src="/https://user-images.githubusercontent.com/42529024/168284896-abab82a0-a818-4292-b3f3-531374addcc2.jpg" /> 
-  <img src="/https://img.shields.io/github/stars/surmon-china/surmon.me.native.svg?style=for-the-badge"  />
-</p>
+<a href="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-1.gif" target="_blank">
+  <img src="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-1.gif" width="31%" />
+</a>
+<span>&nbsp;&nbsp;&nbsp;</span>
+<a href="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-2.gif" target="_blank">
+  <img src="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-2.gif" width="31%" />
+</a>
+<span>&nbsp;&nbsp;&nbsp;</span>
+<a href="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-3.gif" target="_blank">
+  <img src="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-3.gif" width="31%" />
+</a>
