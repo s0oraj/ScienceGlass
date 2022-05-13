@@ -27,14 +27,5 @@ Blog's Offical Website: https://cosmos.home.blog/
 </a>
 
 
-<a href="https://user-images.githubusercontent.com/42529024/168299190-8b371bb0-7d1f-4088-92b4-f9f6d0851241.png" target="_blank">
-  <img src="https://user-images.githubusercontent.com/42529024/168299190-8b371bb0-7d1f-4088-92b4-f9f6d0851241.png" width="31%" />
-</a>
 
-<a href="https://user-images.githubusercontent.com/42529024/168299449-7b03c6b3-dbbe-48e6-938c-de9a04d9cfac.png" target="_blank">
-  <img src="https://user-images.githubusercontent.com/42529024/168299449-7b03c6b3-dbbe-48e6-938c-de9a04d9cfac.png" width="31%" />
-</a>
 
-<a href="https://user-images.githubusercontent.com/42529024/168290330-30f56689-d2c2-4c2a-bcae-37259ef6ad74.png" target="_blank">
-  <img src="https://user-images.githubusercontent.com/42529024/168290330-30f56689-d2c2-4c2a-bcae-37259ef6ad74.png" width="31%" />
-</a>
