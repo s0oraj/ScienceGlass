@@ -34,8 +34,8 @@
   <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_one.gif" width="31%" />
 </a>
 <span>&nbsp;&nbsp;&nbsp;</span>
-<a href="https://github.com/s0oraj/ScienceGlass/blob/master/illustration_gif_three.gif" target="_blank">
-  <img src="https://github.com/s0oraj/ScienceGlass/blob/master/illustration_gif_three.gif.gif" width="31%" />
+<a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_three.gif" target="_blank">
+  <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_three.gif" width="31%" />
 </a>
 
 
