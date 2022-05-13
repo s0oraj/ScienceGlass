@@ -86,32 +86,6 @@
 
         app:layout_constraintTop_toTopOf="parent" />
 
-    <!-- Note for next attribute :
-      For FAB button If you do not use android:tint="@color/white (or  app:tint="@color/white")
-      , then fab icon will have black color which looks
-      less impressive than white color
-      And our Fab icon is i.e @@drawable/ic_fab_refresh
-
-     1) If you are using com.google.android.material.floatingactionbutton.FloatingActionButton
-      use app:tint="@color/white
-
-     2) If you are using anroid.support.design.widget.FloatingActionButton
-     use android:tint="@color/white
-
-     Found this info at https:stackoverflow.com/questions/31113891/set-fab-icon-color
-     Answer by Giorgio Antonioli
-     answered Jun 29, 2015 at 11:04
-     -->
-
-    <!--
-    when i changed background of fab button from its default color
-    (for better appearance which would suit this app)
-    , the fab button still had its boundary to the default color
-    , which appears as weird boundary around our fab which has different color than default one
-
-    solution = removed fab boundary by using this attribute
-    app:borderWidth="0dp"
-     -->
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/refresh_button"
