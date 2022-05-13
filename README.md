@@ -26,16 +26,16 @@
  </a>
  
  
- <a href="https://user-images.githubusercontent.com/42529024/168304694-17f98b10-a4db-4915-8be2-4404fccbd612.gif" target="_blank">
-  <img src="https://user-images.githubusercontent.com/42529024/168304694-17f98b10-a4db-4915-8be2-4404fccbd612.gif" width="31%" />
+ <a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_two.gif" target="_blank">
+  <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_two.gif" width="31%" />
 </a>
 <span>&nbsp;&nbsp;&nbsp;</span>
 <a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_one.gif" target="_blank">
   <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_one.gif" width="31%" />
 </a>
 <span>&nbsp;&nbsp;&nbsp;</span>
-<a href="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-3.gif" target="_blank">
-  <img src="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-3.gif" width="31%" />
+<a href="https://github.com/s0oraj/ScienceGlass/blob/master/illustration_gif_three.gif" target="_blank">
+  <img src="https://github.com/s0oraj/ScienceGlass/blob/master/illustration_gif_three.gif.gif" width="31%" />
 </a>
 
 
