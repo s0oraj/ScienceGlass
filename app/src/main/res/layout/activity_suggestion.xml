@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:fillViewport="true"
+    android:textAlignment="gravity"
+    tools:context=".navigation.AboutActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="16dp"
+            android:fontFamily="@font/cinzel_regular"
+            android:padding="16dp"
+            android:text="Leave a Suggestion"
+            android:textColor="@color/black"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/about_feature_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:adjustViewBounds="true"
+            app:srcCompat="@drawable/contact" />
+
+
+
+
+        <LinearLayout
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/main_activity_tan_background_"
+            android:padding="@dimen/activity_margin"
+            tools:context=".Editor">
+
+
+
+            <!-- Measurement category -->
+            <LinearLayout
+                android:id="@+id/container_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:text="First Name"
+                    style="@style/CategoryStyle"
+                    android:fontFamily="@font/librebaskerville_regular"/>
+                <EditText
+                    android:id="@+id/user_input_name"
+                    style="@style/EditorFieldStyle"
+                    android:hint="Enter your name"
+                    android:inputType="textCapWords"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/container_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:text="Last Name"
+                    style="@style/CategoryStyle"
+                    android:fontFamily="@font/librebaskerville_regular"/>
+                <EditText
+                    android:id="@+id/user_input_last_name"
+                    style="@style/EditorFieldStyle"
+                    android:hint="Enter last name"
+                    android:inputType="textCapWords"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"/>
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/container_comments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:text="Comment"
+                    style="@style/CategoryStyle"
+                    android:fontFamily="@font/librebaskerville_regular"/>
+                <EditText
+                    android:id="@+id/user_input_comment"
+                    style="@style/EditorFieldStyle"
+                    android:hint="Enter your suggestion"
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:maxLines="10"
+                    android:layout_height="wrap_content"
+                    android:layout_width="0dp"
+                    android:layout_weight="2"
+                    />
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/submit_button"
+                android:layout_margin="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Submit"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

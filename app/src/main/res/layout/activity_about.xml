@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tan_background"
+    android:fillViewport="true"
+    android:textAlignment="gravity"
+    tools:context=".navigation.AboutActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="16dp"
+            android:fontFamily="@font/cinzel_regular"
+            android:padding="16dp"
+            android:text="ABOUT"
+            android:textColor="@color/black"
+            android:textSize="24sp" />
+
+        <ImageView
+            android:id="@+id/about_feature_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:adjustViewBounds="true"
+
+            app:srcCompat="@drawable/about_image" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/librebaskerville_regular"
+            android:padding="8dp"
+            android:justificationMode="inter_word"
+            android:text="@string/about_page_description"
+            android:textAlignment="viewStart"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <!--
+   android:justificationMode="inter_word" justifies text and makes it fullscreen.
+   which means text covers both start(left) side and end(right) side of the screen
+   however this attribute is only supported after api level 26 i.e android 8
+
+   alternative soltion : make it webview instead
+   found at a few answers from
+   https://stackoverflow.com/questions/1292575/android-textview-justify-text
+   but we wont be doing it here
+   no need to create and entire webview and modify java code for the same
+   for this funtionality, at least not for this app,
+   might use this later
+   webview idea is basically the fact that html has this tag
+    text-align: justify; which does the work done (see html page in assets folder, you will find justify text there too)
+   //TODO Use this approach later in other projects for justifying textviews text.
+    -->
+
+
+</androidx.core.widget.NestedScrollView>

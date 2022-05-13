@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ScienceGlass</string>
+
+    <string name="json_url">https://public-api.wordpress.com/rest/v1.1/sites/cosmos.home.blog/posts/</string>
+    <string name="website_url">https://cosmos.home.blog/</string>
+    <string name="facebook_url">https://www.facebook.com/scienceglass/</string>
+    <string name="author_url">https://www.instagram.com/s0oraj/</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="no_internet">No Internet </string>
+    <string name="no_posts">No posts received </string>
+    <string name="try_again">Please try again later</string>
+
+
+
+    <string name="scienceglass_post_html">butterfly_html_page.html</string>
+    <string name="no_such_page">There is no such page&#8230;</string>
+
+    <!-- Strings For Number of posts to show in app Preference -->
+    <!--the "translatable" attribute given below, points out that this attribute will be same for all locales.
+     More information on
+     https://stackoverflow.com/questions/3925072/what-is-the-pourpose-of-using-translatable-in-android-strings
+     answer by taras leskiv answered Dec 3,2012 at 17:56 -->
+    <string name="settings_postcount_label">Post count</string>
+    <string name="settings_postcount_key" translatable="false">postcount_key</string>
+    <string name="settings_postcount_default" translatable="false">6</string>
+    <string name="settings_title">Settings</string>
+
+    <!-- String resources for help page-->
+    <string name="what_is_this_app_about_help_string">This app based on ScienceGlass blog website (https://cosmos.home.blog)\n\nAny new posts on the official blog is automatically shown here as well.\nTo see how this app works scroll down this page and read about list of all features available</string>
+    <string name="swapping_of_posts_help_string">To temporarily remove a post from the list posts:\nSwipe the post card left or right\nTo restore posts: click on Refresh button.\n\nTo swap a post to some other place in list:\nTap and Hold on the post and swipe it up or down. The position of the post will change\nTo restore posts to their original position: click on Refresh button</string>
+    <string name="number_of_posts_help_string"><![CDATA[To set number of recent posts you want to see in the app:\nGo to Settings->Tap on Post count\n\nNote: If you set the postcount value more than total number of posts, you will see maximum no of posts instead of postcount value]]></string>
+    <string name="navigation_menu_help_string">Navigation menu has a list of additional features and links users can access.\nTo access navigation menu: Tap on top left or swipe from left side of the screen\n\nWebsite: Redirects users to the official website on which the app is based on. https:cosmos.home.blog\n\nAbout: Information on what is ScienceGlass blog is all about\n\nSuggestion: Users can submit their suggestion for improvement of this app or main blog website. On clicking submit, users are redirected to their email.\n\nFacebook Page: Redirects to the official facebook page of ScienceGlass.\n\nContact Author: Redirects to social media account of the author of ScienceGlass</string>
+    <string name="refresh_button_help_string">Refresh button is an orange circular button situated at bottom right corner of the main screen.\n\nTap on Refresh button to get a refreshed list of posts\n\nRefresh button will also restore swapping and swiping (deleting) of all posts back to their original position</string>
+    <string name="change_layout_help_string">To change layout of posts list (the way posts are shown on screen):\nTap on ChangeLayout\n\nTwo layouts are available: Gridlayout and LinearLayout. When you close the app and restart, the app remembers which layout you prefer\n\nDefault layout when app is first installed: LinearLayout</string>
+
+
+    <string name="about_page_description">Knowledge and Imagination are two crucial things that have the most impact on the modern world.\n\nIn this blog, I talk about Scientific facts about our world, that at times are often mysterious, weird and strange but true. You will find a list of articles that are related to mysterious scientific facts, scientific phenomenon, space, time, self-development, self-improvement, strange and interesting mysteries about our life, mysteries on the internet, case studies, psychology and almost anything else related to science. \n\nIf you have got any suggestions/opinions/critics for this blog or any of my blog posts or if you want to contribute as an author for one of my post. Sign up at the “Contact” page and you will get the response in the next 24 hours. You can also put a comment down in the comment section of posts too</string>
+
+
+
+</resources>

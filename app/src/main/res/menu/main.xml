@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Settings"
+        android:id="@+id/settings_menu_item"
+        />
+
+
+    <item android:title="Change Layout"
+        android:id="@+id/change_layout"
+        />
+
+
+
+
+    <item android:title="Help"
+        android:id="@+id/help_menu_item"
+        />
+</menu>

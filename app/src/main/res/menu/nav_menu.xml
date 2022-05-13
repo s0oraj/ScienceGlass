@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Website"
+        android:id="@+id/visit_website"/>
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/ic_baseline_priority_high_24"
+        android:title="About" />
+
+    <item
+        android:id="@+id/suggestion"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="Suggestion " />
+
+    <item
+        android:id="@+id/facebook_page"
+        android:icon="@drawable/facebook_icon"
+        android:title="Facebook Page" />
+
+    <item
+        android:id="@+id/author_details"
+        android:icon="@drawable/author"
+        android:title="Contact Author" />
+</menu>
