@@ -14,8 +14,8 @@
 
 **IOS Runtime**
 
-<a href="https://user-images.githubusercontent.com/42529024/168289237-7a7d500d-c371-4548-8e2f-8818c9cc4999.jpg" target="_blank">
-  <img src="(https://user-images.githubusercontent.com/42529024/168289237-7a7d500d-c371-4548-8e2f-8818c9cc4999.jpg" width="31%" />
+<a href="https://user-images.githubusercontent.com/42529024/168289479-4143e05f-13bd-4761-9e2c-ab124cbfce94.jpg" target="_blank">
+  <img src="https://user-images.githubusercontent.com/42529024/168289479-4143e05f-13bd-4761-9e2c-ab124cbfce94.jpg" width="31%" />
 </a>
 <span>&nbsp;&nbsp;&nbsp;</span>
 <a href="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-2.gif" target="_blank">
