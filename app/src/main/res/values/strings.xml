@@ -13,7 +13,7 @@
 
 
 
-    <string name="scienceglass_post_html">butterfly_html_page.html</string>
+    <string name="scienceglass_post_html">scienceglass.html</string>
     <string name="no_such_page">There is no such page&#8230;</string>
 
     <!-- Strings For Number of posts to show in app Preference -->
