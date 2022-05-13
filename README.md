@@ -21,7 +21,7 @@
 <a href="https://user-images.githubusercontent.com/42529024/168290010-b56b3edc-6dfd-47ba-a300-ff8b28a54dc5.png" target="_blank">
   <img src="https://user-images.githubusercontent.com/42529024/168290010-b56b3edc-6dfd-47ba-a300-ff8b28a54dc5.png" width="31%" />
 </a>
-<span>&nbsp;&nbsp;&nbsp;</span>
-<a href="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-3.gif" target="_blank">
-  <img src="https://raw.githubusercontent.com/surmon-china/surmon.me.native/master/screenshots/g-3.gif" width="31%" />
+
+<a href="https://user-images.githubusercontent.com/42529024/168290330-30f56689-d2c2-4c2a-bcae-37259ef6ad74.png" target="_blank">
+  <img src="https://user-images.githubusercontent.com/42529024/168290330-30f56689-d2c2-4c2a-bcae-37259ef6ad74.png" width="31%" />
 </a>
