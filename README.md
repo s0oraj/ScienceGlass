@@ -13,18 +13,7 @@
 
  ## Screenshots
 
- <a href="https://user-images.githubusercontent.com/42529024/168290528-0f992359-105c-4ac7-85f1-e6d257c46c49.png" target="_blank">
- <img src="https://user-images.githubusercontent.com/42529024/168290528-0f992359-105c-4ac7-85f1-e6d257c46c49.png" width="31%" />
- </a>
-
- <a href="https://user-images.githubusercontent.com/42529024/168290010-b56b3edc-6dfd-47ba-a300-ff8b28a54dc5.png" target="_blank">
- <img src="https://user-images.githubusercontent.com/42529024/168290010-b56b3edc-6dfd-47ba-a300-ff8b28a54dc5.png" width="31%" />
- </a>
-
- <a href="https://user-images.githubusercontent.com/42529024/168290330-30f56689-d2c2-4c2a-bcae-37259ef6ad74.png" target="_blank">
- <img src="https://user-images.githubusercontent.com/42529024/168290330-30f56689-d2c2-4c2a-bcae-37259ef6ad74.png" width="31%" />
- </a>
- 
+https://via.placeholder.com/468x300?text=App+Screenshot+Here
  
  <a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_two.gif" target="_blank">
   <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_two.gif" width="31%" />
