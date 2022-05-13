@@ -25,10 +25,6 @@
  <img src="https://user-images.githubusercontent.com/42529024/168290330-30f56689-d2c2-4c2a-bcae-37259ef6ad74.png" width="31%" />
  </a>
 
- # Libraries used
-
- * [Volley] (https://github.com/google/volley)
- * [Picasso] (https://github.com/square/picasso)
 
  ## How this app works
 
@@ -37,8 +33,11 @@
  - After this, it then parses the received data and shows it in main user-interface of the app.
  - For displaying featured image of a post, picasso library is used which takes image from url and loads it to the screen.
  - And finally, Androids WebView library is used to convert html content into relevant data to be loaded on the screen.
+ 
+ ## Libraries used
 
-
+ * [Volley] (https://github.com/google/volley)
+ * [Picasso] (https://github.com/square/picasso)
 
 
  ## Features
