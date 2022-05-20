@@ -10,8 +10,3 @@
     android:name="blog.cosmos.home.scienceglass.navigation.SettingsActivity$PostPreferenceFragment"
     tools:context="blog.cosmos.home.scienceglass.navigation.SettingsActivity"
     />
-
-
-<!--
-
--->

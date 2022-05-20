@@ -17,10 +17,7 @@
     <string name="no_such_page">There is no such page&#8230;</string>
 
     <!-- Strings For Number of posts to show in app Preference -->
-    <!--the "translatable" attribute given below, points out that this attribute will be same for all locales.
-     More information on
-     https://stackoverflow.com/questions/3925072/what-is-the-pourpose-of-using-translatable-in-android-strings
-     answer by taras leskiv answered Dec 3,2012 at 17:56 -->
+
     <string name="settings_postcount_label">Post count</string>
     <string name="settings_postcount_key" translatable="false">postcount_key</string>
     <string name="settings_postcount_default" translatable="false">6</string>

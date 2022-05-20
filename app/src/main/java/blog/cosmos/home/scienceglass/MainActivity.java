@@ -334,7 +334,7 @@ public class MainActivity extends AppCompatActivity
                   editor.putBoolean("is_linear_layout",false);
                   editor.apply();
 
-                  //update isLinearLayout value to true
+                  //update isLinearLayout value to current shared preference
                   isLinearLayout =  prefs.getBoolean("is_linear_layout",true);
               } else {
                   // if Gridlayout is present, then change to linearlayout
@@ -350,7 +350,7 @@ public class MainActivity extends AppCompatActivity
                   editor.putBoolean("is_linear_layout",true);
                   editor.apply();
 
-                  // update isLinearLayout value to true
+                  //update isLinearLayout value to current shared preference
                   isLinearLayout = prefs.getBoolean("is_linear_layout",true);
 
               }
