@@ -2,7 +2,7 @@
 
  A simple blog app which is based on a WordPress Blog website called ScienceGlass.
 
- Install & try the app: [Download APK](https://drive.google.com/file/d/1t6S_fNJWltUb-kXMFivFwFjI0jX4oMOK/view?usp=sharing)
+ Install & try the app: [Download APK](https://drive.google.com/file/d/1Ysg01UcOXfticLrtStf2CNlqX8CaMk4P/view?usp=sharingg)
 
  Blog's Official Website: https://cosmos.home.blog/
 
@@ -14,18 +14,18 @@
  ## Screenshots
 
 
-  <span>&nbsp;&nbsp;</span>
+  
  <a href="https://user-images.githubusercontent.com/42529024/168333688-391859dd-49fd-4e84-b91d-8fe348639413.png" target="_blank">
   <img src="https://user-images.githubusercontent.com/42529024/168333688-391859dd-49fd-4e84-b91d-8fe348639413.png" width="22%" />
- <span>&nbsp;&nbsp;</span>
+ <span>&nbsp;</span>
  <a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_two.gif" target="_blank">
   <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_two.gif" width="22%" />
 </a>
-<span>&nbsp;&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_three.gif" target="_blank">
   <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_three.gif" width="22%" />
 </a>
-<span>&nbsp;&nbsp;</span>
+<span>&nbsp;</span>
 <a href="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_one.gif" target="_blank">
   <img src="https://raw.githubusercontent.com/s0oraj/ScienceGlass/master/illustration_gif_one.gif" width="22%" />
 </a>
@@ -34,8 +34,8 @@
  ## How this app works
 
  - This android app displays recent posts of a WordPress Blog called ScienceGlass.
- - It fetches JSON Data from WordPress [Public API](https://developer.wordpress.com/docs/api/) by using [Volley](https://github.com/google/volley) library.
- - After this, it then parses the received data and shows it in main user-interface of the app.
+ - It fetches JSON Data from WordPress [Public API](https://developer.wordpress.com/docs/api/) by using [Volley](https://github.com/google/volley) library. Volley helps in fetching JSON data in a seperate background thread.
+ - After this, the recieved JSON data is being parsed in the main ui thread. After JSON parsing the data is shown to the main user-interface of the app.
  - For displaying featured image of a post, [Picasso](https://github.com/square/picasso) library is used which takes image from url and loads it to the screen.
  - And finally, Androids [WebView](https://developer.android.com/reference/android/webkit/WebView) library is used to convert html content into relevant data to be loaded on the screen.
  
@@ -47,8 +47,8 @@
 
  ## Features
 
- -  Users can set the number of recent post they want to see. If a user sets his preference to three posts then the user is only shown three recent posts from the ScienceGlass blog
- -  Swapping and Deleting of Data: Users can tap on a post and swipe right to remove it from screen. And users can also tap on a post and change its location by moving it up or down the list of posts fom the website. Refresh button will restore all data back to its original configuration.
+ -  Users can set the number of recent post they want to see. For example, if a user sets his preference to three posts then the user is only shown three recent posts from the ScienceGlass blog
+ -  Swapping and Deleting of Data: Users can tap on a post and swipe right or left to remove it from screen. Users can also tap on a post hold on it and change its location by moving it up or down the list of available posts. Refresh button will restore all data back to its original configuration.
  -  Change layout: Users can customize what layout they want to see their posts in. Two layouts are provided: LinearLayout and GridLayout.
  
  
